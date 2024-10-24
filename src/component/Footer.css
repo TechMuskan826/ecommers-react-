@@ -1,0 +1,91 @@
+.footer{
+    width: 100%;
+    height: 400px;
+    background-color: #ece3df;
+   float: left;
+   margin-top:8%;
+}
+
+.fistfoot{
+    width: 30%;
+    height: 250px;
+    /* background-color: aqua; */
+    float: left;
+    margin-top: 8%;
+    margin-left: 3%;
+    text-align: center;
+    font-size: 38px;
+    font-weight: 400;
+    font-family: emoji
+}
+.fqa{
+    font-size:15px;
+    margin-top: 35px;
+   
+}
+.stok{
+    margin: 10px;
+    color: rgb(103, 105, 108);
+}
+.emial{
+    width:100%;
+    height: 30px;
+    border: none;
+    font-size: 16px;
+    margin-top:8%;
+    border-bottom: 3px solid black;
+    background-color: #ece3df;
+
+}
+.subs{
+    margin-left: 19%;
+    position: absolute;
+    margin-top:35px;
+    font-size: 15px;
+    color: black;
+}
+.boxiconfa{
+    width: 100%;
+    height: 100px;
+    background-color:#ece3df;
+    float: left;
+}
+.facbook{
+    margin-left: 8%;
+    margin-top: 6%;
+}
+.youtupe{
+    margin-left:2%;
+}
+.oworg{
+    float: right;
+    margin-right:40%;
+    margin-top: 6%;
+    font-size: 16px;
+    font-family: auto
+}
+.imgeamx{
+    width: 9%;
+    float: right;
+    margin-right: -41%;
+    margin-top: 59px;
+    height: 46px
+}
+.mesto{
+    margin-right: -45%;
+    width: 5%;
+    height: 35px;
+    margin-top: 5%;
+}
+.mesto1{
+    margin-right: -51%;
+    width: 5%;
+    height: 35px;
+    margin-top: 5%;
+}
+.mesto2{
+    margin-right: -56%;
+    width: 5%;
+    height: 35px;
+    margin-top: 5%;
+}
